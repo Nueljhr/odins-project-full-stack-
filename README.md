@@ -1,2 +1,2 @@
-# odins-project-full-stack-
+# Odins-Project-Full-Stack-
 Journey to Full Stack
