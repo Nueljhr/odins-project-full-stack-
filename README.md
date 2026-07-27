@@ -1,2 +1,2 @@
-# Odins-Project-Full-Stack-
+# Puffkultur
 Journey to Full Stack
