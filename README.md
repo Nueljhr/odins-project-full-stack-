@@ -1,2 +1,2 @@
-# Puffkultur
-Journey to Full Stack
+# Odins Project Full Stack
+Html CSS JS Rust
